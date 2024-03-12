@@ -1,12 +1,17 @@
 {
-    "name": "BGOLD",
-    "symbol": "BAU",
-    "description": "Marv Gold Special",
-    "image": "https://github.com/MarvMuon/bonki/blob/main/logo.png?raw=true",
-    "attributes": [
-      {
-        "trait_type": "Super Win Marv",
-        "value": "10000000"
+  "name": "MarvGold",
+  "symbol": "MarvG",
+  "description": "MarvGold is decentralized digital currency built on the Solana blockchain.",
+  "image": "https://github.com/MarvMuon/bonki/blob/main/logo.png?raw=true",
+  "animation_url": "https://drive.google.com/file/d/1L87FDVPTC4gsqvz0-3-NwVFgYnhFbt7l/view?usp=drive_link",
+  "external_url": "https://marv.gold",
+  "attributes": [
+    {"color": "gold"},
+    {"supply": "1,000,000,000"}
+  ],
+  "properties": {
+    "files": [
+      {"uri": "https://drive.google.com/file/d/1JJC02ld1nMX2fCYzimppG3xvq7lGqhIo/view?usp=drive_link", "type": "application/pdf"}
+    ],
       }
-    ]
-  }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "BGOLD",
+    "symbol": "BAU",
+    "description": "Marv Gold Special",
+    "image": "https://github.com/MarvMuon/bonki/blob/main/logo.png?raw=true",
+    "attributes": [
+      {
+        "trait_type": "Super Win Marv",
+        "value": "10000000"
+      }
+    ]
+  }

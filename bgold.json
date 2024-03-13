@@ -2,7 +2,7 @@
   "name": "MarvGold",
   "symbol": "MarvG",
   "description": "MarvGold is decentralized digital currency built on the Solana blockchain.",
-  "image": "https://github.com/MarvMuon/bonki/blob/main/logo.png?raw=true",
+  "image": "https://raw.githubusercontent.com/MarvMuon/marv/main/logo.png",
   "animation_url": "https://drive.google.com/file/d/1L87FDVPTC4gsqvz0-3-NwVFgYnhFbt7l/view?usp=drive_link",
   "external_url": "https://marv.gold",
   "attributes": [
